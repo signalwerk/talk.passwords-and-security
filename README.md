@@ -1,4 +1,4 @@
-# Passwörter und Security
+# Passwörter & Security
 
 [Show Slides](https://signalwerk.github.io/talk.passwords-and-security/)
 
